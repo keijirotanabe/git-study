@@ -4,3 +4,4 @@
 - git commit コマンドで、リポジトリのインデックスに追加する
 - git push コマンドで、ローカルのコミットをリモートと言う
 - てすと
+test ubuntu on windows
