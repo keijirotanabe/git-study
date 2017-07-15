@@ -5,3 +5,4 @@
 - git push コマンドで、ローカルのコミットをリモートと言う
 - てすと
 test ubuntu on windows
+- power shell から追加
