@@ -6,3 +6,4 @@
 - てすと
 test ubuntu on windows
 - power shell から追加
+- ubuntu64 on vagrant から追加
